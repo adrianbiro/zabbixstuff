@@ -1,0 +1,10 @@
+#.env_srv
+#.env_prx_sqlite3
+#.env_prx_mysql
+#.env_prx
+.env_db_mysql_proxy     # zmen
+.env_db_mysql           # link na files
+.MYSQL_USER             # zm
+.MYSQL_ROOT_USER        # zm
+.MYSQL_ROOT_PASSWORD    # zm
+.MYSQL_PASSWORD         # zm
